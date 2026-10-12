@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(200, 239, 248);
+    color: rgb(83, 83, 106);
+    font-family: "Bricolage Grotesque", sans-serif;
+}
+
+ul {
+    margin: 0;
+}
+
+.main-nav {
+    background-color: rgb(127, 255, 148);
+    padding: 15px 0px;
+    margin-left: 10px;
+}
+
+.color-main {
+    background-color: pink;
+    padding: 12px 10px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+.site-footer {
+    padding: 20px;
+}
