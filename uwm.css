@@ -6,13 +6,19 @@ header {
     background-color: #dda0dd;
 }
 
-header a {
+header p {
+    font-weight: bold;
+}
+
+header a,
+header ul {
     color: #955174;
 }
 
 .wrapper {
     max-width: 600px;
-    margin: 0 auto;
+    margin: 0 auto 20px auto;
+    padding: 10px;
 }
 
 main {
@@ -21,14 +27,23 @@ main {
 
 .background-main {
     background-color: rgb(250, 222, 98);
+    padding: 5px;
+    margin-bottom: 10px;
 }
 
 aside {
     background-color: rgb(255, 166, 174);
+    color: rgb(159, 66, 66);
+    font-style: italic;
 }
 
 footer {
-    background-color: rgb(122, 240, 240);
+    background-color: #7af0f0;
+}
+
+footer a,
+footer ul {
+    color: #1c6b6b;
 }
 
 hr {
