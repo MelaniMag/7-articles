@@ -1,0 +1,36 @@
+body {
+    color: rgb(52, 52, 52);
+}
+
+header {
+    background-color: #dda0dd;
+}
+
+header a {
+    color: #955174;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+main {
+    background-color: rgb(255, 255, 103);
+}
+
+.background-main {
+    background-color: rgb(250, 222, 98);
+}
+
+aside {
+    background-color: rgb(255, 166, 174);
+}
+
+footer {
+    background-color: rgb(122, 240, 240);
+}
+
+hr {
+    border: 2px solid black;
+}
